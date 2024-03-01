@@ -5,3 +5,4 @@ JANUARY 19, 2024 [Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execut
 
 October 17, 2023 [Getting RCE in Chrome with incomplete object initialization in the Maglev compiler](https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/)
 
+September 26, 2023 [Getting RCE in Chrome with incorrect side effect in the JIT compiler](https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/)
