@@ -26,7 +26,7 @@ Writeups collection for v8 js engine
 
 ### 12
 
-[Deconstructing and Exploiting CVE-2020-6418](https://web.archive.org/web/20240304173937/https://starlabs.sg/blog/2022/12-deconstructing-and-exploiting-cve-2020-6418/0)
+[Deconstructing and Exploiting CVE-2020-6418](https://web.archive.org/web/20240304173937/https://starlabs.sg/blog/2022/12-deconstructing-and-exploiting-cve-2020-6418/)
 
 [TWO BIRDS WITH ONE STONE: AN INTRODUCTION TO V8 AND JIT EXPLOITATION](https://web.archive.org/web/20221216173944/https://www.zerodayinitiative.com/blog/2021/12/6/two-birds-with-one-stone-an-introduction-to-v8-and-jit-exploitation)
 
@@ -46,7 +46,7 @@ Writeups collection for v8 js engine
 
 ### 11
 
-[Browser Architecture](https://seal9055.com/blog/?p=browser_architecture&d=browser0
+[Browser Architecture](https://seal9055.com/blog/?p=browser_architecture&d=browser)
 
 ### 08
 
