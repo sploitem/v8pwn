@@ -15,7 +15,12 @@ Writeups collection for v8 js engine
 
 ## 2023
 
+### 11
+
+[CVE-2023-4427 PoC : Out of bounds memory access in V8](http://web.archive.org/web/20240304190956/https://cwresearchlab.co.kr/entry/CVE-2023-4427-PoC-Out-of-bounds-memory-access-in-V8)
+
 ### 10
+
 [Getting RCE in Chrome with incomplete object initialization in the Maglev compiler](https://web.archive.org/web/20240301070538/https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/)
 
 ### 09
