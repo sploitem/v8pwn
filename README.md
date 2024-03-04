@@ -30,6 +30,10 @@ Writeups collection for v8 js engine
 
 ## 2021
 
+### 03
+
+[Yet another RenderFrameHostImpl UAF](https://web.archive.org/web/20240304173007/https://microsoftedge.github.io/edgevr/posts/yet-another-uaf/)
+
 ## 2020
 
 ### 09
