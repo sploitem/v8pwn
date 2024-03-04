@@ -32,6 +32,7 @@ Writeups collection for v8 js engine
 
 [UNDERSTANDING THE ROOT CAUSE OF CVE-2021-21220 – A CHROME BUG FROM PWN2OWN 2021](https://web.archive.org/web/20221218102159/https://www.zerodayinitiative.com/blog/2021/12/8/understanding-the-root-cause-of-cve-2021-21220-a-chrome-bug-from-pwn2own-2021)
 
+[EXPLOITATION OF CVE-2021-21220 – FROM INCORRECT JIT BEHAVIOR TO RCE](https://web.archive.org/web/20220212130808/https://www.zerodayinitiative.com/blog/2021/12/15/exploitation-of-cve-2021-21220-from-incorrect-jit-behavior-to-rce)
 
 ### 06
 
