@@ -43,6 +43,12 @@ Writeups collection for v8 js engine
 
 ## 2021
 
+### 08
+
+[A Bug's Life: CVE-2021-21225](https://web.archive.org/web/20240304174115/https://tiszka.com/blog/CVE_2021_21225.html)
+
+[Exploiting CVE-2021-21225 and disabling W^X](https://web.archive.org/web/20231211080155/https://tiszka.com/blog/CVE_2021_21225_exploit.html)
+
 ### 03
 
 [Yet another RenderFrameHostImpl UAF](https://web.archive.org/web/20240304173007/https://microsoftedge.github.io/edgevr/posts/yet-another-uaf/)
