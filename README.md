@@ -24,6 +24,10 @@ Writeups collection for v8 js engine
 
 ## 2022
 
+### 12
+
+[Deconstructing and Exploiting CVE-2020-6418](https://web.archive.org/web/20240304173937/https://starlabs.sg/blog/2022/12-deconstructing-and-exploiting-cve-2020-6418/0
+
 ### 06
 
 [The Chromium super (inline cache) type confusion](https://web.archive.org/web/20240304173119/https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/)
