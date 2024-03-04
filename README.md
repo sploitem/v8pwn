@@ -47,3 +47,5 @@ Writeups collection for v8 js engine
 [JITSploitation I: A JIT Bug](https://web.archive.org/web/20240304174236/https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html)
 
 [JITSploitation II: Getting Read/Write](https://web.archive.org/web/20240131141658/https://googleprojectzero.blogspot.com/2020/09/jitsploitation-two.html)
+
+[JITSploitation III: Subverting Control Flow](https://web.archive.org/web/20240131141702/https://googleprojectzero.blogspot.com/2020/09/jitsploitation-three.html)
