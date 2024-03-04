@@ -33,6 +33,10 @@ Writeups collection for v8 js engine
 
 [Getting RCE in Chrome with incorrect side effect in the JIT compiler](https://web.archive.org/web/20240301070547/https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/)
 
+### 05
+
+[Google Chrome V8 ArrayShift Race Condition Remote Code Execution](http://web.archive.org/web/20240304191224/https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/)
+
 ## 2022
 
 ### 12
