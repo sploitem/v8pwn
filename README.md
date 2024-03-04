@@ -27,3 +27,10 @@ Writeups collection for v8 js engine
 ### 05
 
 [Chromium v8 js engine issue 1303458 — Use After Free](https://web.archive.org/web/20240304172008/https://infosecwriteups.com/zero-day-vulnerability-chromium-v8-js-engine-issue-1303458-use-after-free-in-x64-instruction-e874419436a6?gi=6d3fc781bcbc)
+
+## 2021
+
+## 2020
+
+### 09
+[Simple bugs with complex exploits](https://web.archive.org/web/20240304172757/https://www.elttam.com/blog/simple-bugs-with-complex-exploits/#content)
