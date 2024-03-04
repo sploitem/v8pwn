@@ -24,6 +24,10 @@ Writeups collection for v8 js engine
 
 ## 2022
 
+### 06
+
+[The Chromium super (inline cache) type confusion](https://web.archive.org/web/20240304173119/https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/)
+
 ### 05
 
 [Chromium v8 js engine issue 1303458 — Use After Free](https://web.archive.org/web/20240304172008/https://infosecwriteups.com/zero-day-vulnerability-chromium-v8-js-engine-issue-1303458-use-after-free-in-x64-instruction-e874419436a6?gi=6d3fc781bcbc)
