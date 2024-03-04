@@ -13,6 +13,8 @@ Writeups collection for v8 js engine
 
 [Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution](https://web.archive.org/web/20240301070526/https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/)
 
+[The Holy Hole - Analysis of CVE-2023-2033](http://web.archive.org/web/20240304191349/https://spektre.in/posts/the-holy-hole-analysis-of-cve-2023-2033/)
+
 ## 2023
 
 ### 11
