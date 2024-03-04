@@ -17,6 +17,10 @@ Writeups collection for v8 js engine
 
 ## 2023
 
+### 12
+
+[Abusing Liftoff assembly and efficiently escaping from sbx](http://web.archive.org/web/20240304191334/https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html)
+
 ### 11
 
 [CVE-2023-4427 PoC : Out of bounds memory access in V8](http://web.archive.org/web/20240304190956/https://cwresearchlab.co.kr/entry/CVE-2023-4427-PoC-Out-of-bounds-memory-access-in-V8)
