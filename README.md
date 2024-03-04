@@ -28,7 +28,10 @@ Writeups collection for v8 js engine
 
 [Deconstructing and Exploiting CVE-2020-6418](https://web.archive.org/web/20240304173937/https://starlabs.sg/blog/2022/12-deconstructing-and-exploiting-cve-2020-6418/0)
 
+[TWO BIRDS WITH ONE STONE: AN INTRODUCTION TO V8 AND JIT EXPLOITATION](https://web.archive.org/web/20221216173944/https://www.zerodayinitiative.com/blog/2021/12/6/two-birds-with-one-stone-an-introduction-to-v8-and-jit-exploitation)
+
 [UNDERSTANDING THE ROOT CAUSE OF CVE-2021-21220 – A CHROME BUG FROM PWN2OWN 2021](https://web.archive.org/web/20221218102159/https://www.zerodayinitiative.com/blog/2021/12/8/understanding-the-root-cause-of-cve-2021-21220-a-chrome-bug-from-pwn2own-2021)
+
 
 ### 06
 
