@@ -45,3 +45,5 @@ Writeups collection for v8 js engine
 [Simple bugs with complex exploits](https://web.archive.org/web/20240304172757/https://www.elttam.com/blog/simple-bugs-with-complex-exploits/#content)
 
 [JITSploitation I: A JIT Bug](https://web.archive.org/web/20240304174236/https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html)
+
+[JITSploitation II: Getting Read/Write](https://web.archive.org/web/20240131141658/https://googleprojectzero.blogspot.com/2020/09/jitsploitation-two.html)
