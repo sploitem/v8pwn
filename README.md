@@ -41,4 +41,7 @@ Writeups collection for v8 js engine
 ## 2020
 
 ### 09
+
 [Simple bugs with complex exploits](https://web.archive.org/web/20240304172757/https://www.elttam.com/blog/simple-bugs-with-complex-exploits/#content)
+
+[JITSploitation I: A JIT Bug](https://web.archive.org/web/20240304174236/https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html)
