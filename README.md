@@ -44,6 +44,10 @@ Writeups collection for v8 js engine
 
 ## 2021
 
+### 11
+
+[Browser Architecture](https://seal9055.com/blog/?p=browser_architecture&d=browser0
+
 ### 08
 
 [A Bug's Life: CVE-2021-21225](https://web.archive.org/web/20240304174115/https://tiszka.com/blog/CVE_2021_21225.html)
