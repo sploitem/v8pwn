@@ -26,7 +26,7 @@ Writeups collection for v8 js engine
 
 ### 12
 
-[Deconstructing and Exploiting CVE-2020-6418](https://web.archive.org/web/20240304173937/https://starlabs.sg/blog/2022/12-deconstructing-and-exploiting-cve-2020-6418/0
+[Deconstructing and Exploiting CVE-2020-6418](https://web.archive.org/web/20240304173937/https://starlabs.sg/blog/2022/12-deconstructing-and-exploiting-cve-2020-6418/0)
 
 ### 06
 
