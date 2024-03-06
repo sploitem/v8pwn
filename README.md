@@ -51,6 +51,8 @@ Writeups collection for v8 js engine
 
 [EXPLOITATION OF CVE-2021-21220 – FROM INCORRECT JIT BEHAVIOR TO RCE](https://web.archive.org/web/20220212130808/https://www.zerodayinitiative.com/blog/2021/12/15/exploitation-of-cve-2021-21220-from-incorrect-jit-behavior-to-rce)
 
+[Exploring Chrome’s CVE-2020-6418 – Part1](http://web.archive.org/web/20240304193048/https://blog.haboob.sa/blog/exploring-chromes-cve-2020-6418-part1)
+
 ### 06
 
 [The Chromium super (inline cache) type confusion](https://web.archive.org/web/20240304173119/https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/)
