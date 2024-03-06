@@ -61,6 +61,8 @@ Writeups collection for v8 js engine
 
 [Chromium v8 js engine issue 1303458 — Use After Free](https://web.archive.org/web/20240304172008/https://infosecwriteups.com/zero-day-vulnerability-chromium-v8-js-engine-issue-1303458-use-after-free-in-x64-instruction-e874419436a6?gi=6d3fc781bcbc)
 
+[Zero Day Vulnerability: Chromium v8 js engine issue 1303458](http://web.archive.org/web/20240304193005/https://infosecwriteups.com/zero-day-vulnerability-chromium-v8-js-engine-issue-1303458-use-after-free-in-x64-instruction-e874419436a6?gi=55b4ef06fb70)
+
 ## 2021
 
 ### 11
