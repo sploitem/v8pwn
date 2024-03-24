@@ -3,6 +3,10 @@ Writeups collection for v8 js engine
 
 ## 2024
 
+### 03
+
+[CVE-2024-2625 Non-allowed main thread handle deref during off-thread parsing in v8](https://docs.google.com/document/d/1a2YzIHsoI6zYVdXD_OF4aAiED2tE2ANSt0AOQ3DtVl4/edit)
+
 ### 02
 
 [Analyzing the Google Chrome V8 CVE-2024-0517 Out-of-Bounds Code Execution Vulnerability](https://web.archive.org/web/20240301072350/https://dev.to/tutorialboy/analyzing-the-google-chrome-v8-cve-2024-0517-out-of-bounds-code-execution-vulnerability-28i3)
