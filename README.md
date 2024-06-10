@@ -3,6 +3,10 @@ Writeups collection for v8 js engine
 
 ## 2024
 
+### 05
+
+[Exploiting V8 at openECSC](https://web.archive.org/web/20240601010931/https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/)
+
 ### 03
 
 [CVE-2024-2625 Non-allowed main thread handle deref during off-thread parsing in v8](https://docs.google.com/document/d/1a2YzIHsoI6zYVdXD_OF4aAiED2tE2ANSt0AOQ3DtVl4/edit)
