@@ -1,5 +1,5 @@
-# v8-writeups
-Writeups collection for v8 js engine
+# v8pwn
+Writeups for v8 js engine (Chrome \ Chromium)
 
 ## 2024
 
