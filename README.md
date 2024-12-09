@@ -3,6 +3,8 @@ Writeups for v8 js engine (Chrome \ Chromium)
 
 ## 2024
 
+[CVE-2024-2887: A Pwn2Own Winning Bug in Google Chrome](https://web.archive.org/web/20240822072039/https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome)
+
 ### 05
 
 [Exploiting V8 at openECSC](https://web.archive.org/web/20240601010931/https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/)
