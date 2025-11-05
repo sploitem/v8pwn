@@ -91,6 +91,9 @@ Writeups for v8 js engine (Chrome \ Chromium)
 
 [Exploiting CVE-2021-21225 and disabling W^X](https://web.archive.org/web/20231211080155/https://tiszka.com/blog/CVE_2021_21225_exploit.html)
 
+### 04
+[(iamelli0t) Analysis of Chromium issue 1196683, 1195777 (CVE-2021-21220 pwn2own, CVE-2021-21224)](https://web.archive.org/web/20220516090829/https://iamelli0t.github.io/2021/04/20/Chromium-Issue-1196683-1195777.html)
+
 ### 03
 
 [Yet another RenderFrameHostImpl UAF](https://web.archive.org/web/20240304173007/https://microsoftedge.github.io/edgevr/posts/yet-another-uaf/)
