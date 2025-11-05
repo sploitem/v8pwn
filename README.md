@@ -1,6 +1,12 @@
 # v8pwn
 Writeups for v8 js engine (Chrome \ Chromium)
 
+## 2025
+
+### 06
+
+[Dissecting CVE-2024-12695: Exploiting Object.assign() in V8](https://web.archive.org/web/20250612131646/https://bugscale.ch/blog/dissecting-cve-2024-12695-exploiting-object-assign-in-v8/)
+
 ## 2024
 
 [CVE-2024-2887: A Pwn2Own Winning Bug in Google Chrome](https://web.archive.org/web/20240822072039/https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome)
