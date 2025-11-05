@@ -55,6 +55,8 @@ Writeups for v8 js engine (Chrome \ Chromium)
 
 [Google Chrome V8 ArrayShift Race Condition Remote Code Execution](http://web.archive.org/web/20240304191224/https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/)
 
+[(homecrew) CVE-2020-16040 ANALYSIS & EXPLOITATION](https://web.archive.org/web/20250609162812/https://homecrew.dev/posts/cve-2020-16040.html)
+
 ## 2022
 
 ### 12
